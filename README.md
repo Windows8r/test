@@ -1,4 +1,4 @@
-# Avi_RDP 🍃
+# IdkRDP 🍃
 
 it's all free, don't be stingy ⭐️ yes: D
 
@@ -9,7 +9,7 @@ it's all free, don't be stingy ⭐️ yes: D
 
 <br>
 
-### HOW TO CREATE Avi_RDP
+### HOW TO CREATE IdkRDP
 ```
 > Press the Fork button to create RDP (For Android / HP Users, Please Use Desktop Mode).
 
